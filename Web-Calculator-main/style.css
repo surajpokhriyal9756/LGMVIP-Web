@@ -1,0 +1,44 @@
+body{
+	background-image: url('calimg2.jpg');
+	background-position: center;
+}
+
+.container{
+	text-align: center;
+	 text-shadow: 2px 2px #818181;
+	font-family: "Brush Script MT", cursive ;
+	font-size: 25px;
+
+}
+
+table{
+	font-family: "Courier New", Courier, monospace;
+	margin:auto;
+
+}
+input{
+	border-radius:21px ;
+	border:5px solid black;
+	font-size: 34px;
+	height:60px;
+}
+
+button{
+	border-radius: 20px;
+	font-size: 40px;
+	background:#4b4b4b;
+	width: 102px;
+	height:58px;
+}
+
+.calculator{
+	border: 2px solid black;
+	background-color: grey;
+	padding:23px 50px;
+	border-radius: 45px;
+	display:inline-block;
+	position: relative;
+}
+h2{
+	text-align: right;
+}
